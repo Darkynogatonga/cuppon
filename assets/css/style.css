@@ -1,0 +1,26 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.titulo {
+    color: #212529;
+}
+
+.textos-light {
+    font-weight: 300;
+}
+
+h3, h4, h5 {
+    font-weight: 300;
+}
+
+.logo {
+    height: 2rem;
+    width: auto;
+}
+
+.gris {
+    border-color: #707070;
+    color:#707070;
+}
